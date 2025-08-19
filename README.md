@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Linkdin
-- 📫 How to reach me neerpatel132@gmail.com
+- 📫 How to reach me neerengr@gmail.com
 
 <!---
 NeerPatel1309/NeerPatel1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
